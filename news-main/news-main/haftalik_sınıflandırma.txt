@@ -1,0 +1,15 @@
+Classification: Yasam, Count: 21
+Classification: Spor, Count: 22
+Classification: Egitim, Count: 21
+Classification: Magazin, Count: 26
+Classification: Trafik, Count: 10
+Classification: Astroloji, Count: 7
+Classification: Emlak, Count: 4
+Classification: Ekonomi, Count: 32
+Classification: Seyahat, Count: 11
+Classification: Teknoloji, Count: 5
+Classification: Bilim, Count: 24
+Classification: Moda, Count: 3
+Classification: Politika, Count: 30
+Classification: Saglik, Count: 20
+Classification: Kultur ve Sanat, Count: 13
